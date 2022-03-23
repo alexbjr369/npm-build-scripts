@@ -1,0 +1,4 @@
+node_modules
+.husky/_
+src/main.css
+dist
